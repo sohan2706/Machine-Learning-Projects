@@ -1,0 +1,9 @@
+Install ro following packages:
+
+numpy
+pandas
+matplotlib
+tensorflow
+pickle
+streamlit
+sklearn
